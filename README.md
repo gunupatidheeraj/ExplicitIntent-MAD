@@ -31,8 +31,8 @@ Step 7: Save and run the application.
 
 /*
 Program to print the text “Explicit Intents”.
-Developed by: Narra Nanditha
-Registeration Number : 212221240111.
+Developed by: Narra gunupati dheeraj
+Registeration Number : 212221040050
 */
 
 ### activity_main.xml
